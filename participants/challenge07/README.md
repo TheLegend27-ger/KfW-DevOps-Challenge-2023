@@ -24,6 +24,7 @@ Nun wollen wir die bestehende GitHub Actions-Pipeline nutzen um die Terraform-In
 - [ ] Die Workflow-YAML-Datei sollte den Terraform-Job in der Pipeline beinhalten.
 - [ ] Die notwendigen Secrets werden an Terraform sicher übermittelt.
 - [ ] Die Pipeline läuft fehlerfrei durch, anschließend ist die Infrastruktur auf Azure verfügbar.
+- [ ] Ihr habt die Schritte dokumentiert.
 
 ### Lernmaterial
 
