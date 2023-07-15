@@ -36,7 +36,7 @@ Bonus:
 ### Checklist
 
 - [ ] Eure Applikation ist über eure App Service URL erreichbar
-- [ ] Ihr habt eure Schritte ausführlich dolumentiert
+- [ ] Ihr habt eure Schritte ausführlich dokumentiert
 
 ### Lernmaterial
 
