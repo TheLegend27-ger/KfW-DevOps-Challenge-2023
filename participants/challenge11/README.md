@@ -26,10 +26,11 @@ In dieser Herausforderung werden wir eine Azure Policy erstellen, um nicht konfo
 
 ### Checklist
 
-- [ ] Eine Azure Policy ist aktiv um die eingesetzten Locations zu überwachen
-- [ ] Eure Ressourcen in Azure sind konform
-- [ ] Ihr könnt keine neuen Ressourcen außerhalb von West oder North Europe erstellen
-
+- [ ] Eine Azure Policy ist aktiv um die eingesetzten Locations zu überwachen.
+- [ ] Eure Ressourcen in Azure sind konform.
+- [ ] Ihr könnt keine neuen Ressourcen außerhalb von West oder North Europe erstellen.
+- [ ] Eure Schritte sind dokumentiert.
+      
 ### Lernmaterial
 
 - [Azure Policies](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
